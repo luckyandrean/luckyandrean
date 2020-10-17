@@ -1,8 +1,7 @@
 ### Hi there, I'm Lucky Andrean 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)]
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)]
-## I'm wanna be a Professional Web Developer
+[Website](https://img.shields.io/website?label=luckproject.tech&style=for-the-badge&url=https%3A%2F%luckproject.tech)
+## I'm a wanna be Professional Web Developer
 
 - 🔭 Learning by doing
 - 🌱 I’m currently learning everything 🤣
