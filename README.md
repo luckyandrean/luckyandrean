@@ -1,7 +1,7 @@
 ### Hi there, I'm Lucky Andrean 👋
 
 [![Website](https://img.shields.io/website?label=Luckproject.tech&style=for-the-badge&url=https%3A%2F%2Fluckproject.tech)]
-## I'm wanna be Software Engineer
+## I wanna be a Software Engineer
 
 - 🔭 Learning by doing
 - 🌱 I’m currently learning everything 🤣
